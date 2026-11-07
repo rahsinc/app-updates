@@ -1,0 +1,15 @@
+{
+  "latestVersion": "1.0.0",
+  "whatsNew": [],
+  "downloadUrl": "",
+  "news": [
+    {
+      "id": "welcome-2026",
+      "emoji": "👋",
+      "title": "Thanks for choosing Budget Dashboard!",
+      "text": "Tip: download a backup once a month from Settings so your budget is always safe.",
+      "start": "2026-11-01",
+      "end": "2026-12-31"
+    }
+  ]
+}
